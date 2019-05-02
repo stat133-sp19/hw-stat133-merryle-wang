@@ -1,0 +1,4 @@
+"0","X <- bin_variable(trials=10,prob=3)
+"
+"2","Error in check_prob(prob) : p has to be a number between 0 and 1
+"

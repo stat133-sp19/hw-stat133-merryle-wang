@@ -1,0 +1,4 @@
+"0","dist <- bin_distribution(5,0.3)"
+"2","the condition has length > 1 and only the first element will be used"
+"0","cumu <- bin_cumulative(5,0.3)"
+"2","the condition has length > 1 and only the first element will be used"
